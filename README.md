@@ -80,3 +80,8 @@ This Python program, **Pattern Generator and Number Analyzer**, is designed to h
 
 ## Submission
 The project is hosted on GitHub at: `<repository-link>`. Ensure all files are included and the repository is public or accessible to the instructor.
+
+<blockquote>
+    This project is a part of repositry of
+    <a href="https://github.com/Prath-code/Python">Python</a>
+</blockquote>
