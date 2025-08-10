@@ -83,5 +83,5 @@ The project is hosted on GitHub at: `<repository-link>`. Ensure all files are in
 
 <blockquote>
     This project is a part of repositry of
-    <a href="https://github.com/Prath-code/Python">Python</a>
+    <a href="https://github.com/Prath-Digital/Python">Python</a>
 </blockquote>
